@@ -1,6 +1,5 @@
-# gaadiwala
+# Production Application structure
 
-gaadiwala app
 
 ## Getting Started
 
